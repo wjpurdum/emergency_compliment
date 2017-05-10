@@ -1,2 +1,2 @@
 angular
-  .module("compliments", [])
+  .module("emergencyComp", [])
